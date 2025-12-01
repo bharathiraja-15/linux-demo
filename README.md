@@ -251,6 +251,35 @@ Automate scheduled backups for important application directories.
    ```
    0 1 * * * /usr/local/bin/app_backup.sh
    ```
+   before we ensure the whether is install or not configuration 
+
+   ![alt text](<evidence/Screenshot 2025-12-01 193926.png>)
+
+![alt text](<evidence/Screenshot 2025-12-01 193919.png>)
+
+checking status running or not
+
+![alt text](<evidence/Screenshot 2025-12-01 193936.png>)
+
+checking crontab -e and crontab -l beaching eriot and list  cron files 
+
+![alt text](<evidence/Screenshot 2025-12-01 193944.png>)
+
+ Check full cron log historysudo journalctl -u crond
+
+![alt text](<evidence/Screenshot 2025-12-01 194554.png>)
+
+checking backupfiles 
+
+![alt text](<evidence/Screenshot 2025-12-01 194627.png>)
+
+```
+Use only if you want to stop cron entirely.
+
+Stop service:
+
+sudo systemctl stop crond
+```
 
 ---
 
