@@ -19,7 +19,7 @@ sudo groupadd devteam
 i added the gruop name line devteam
 ![alt text](<linux-demo/evidence/Screenshot 2025-12-01 162653.png>)
 ### ✔ Step 2: Add users to the system
-
+![alt text](<evidence/Screenshot 2025-12-01 162653.png>)
 ```
 sudo useradd -m alice
 sudo useradd -m bob
