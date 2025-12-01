@@ -12,7 +12,7 @@ Here is **Level 1 – Basic (Foundational Linux Skills)** explained **STEP-BY-ST
 ## ✅ **1. Create Users and Groups for Dev Team**
 
 ### ✔ Step 1: Create a group (example: devteam)
-fygjudtyu
+
 ```
 sudo groupadd devteam
 ```
