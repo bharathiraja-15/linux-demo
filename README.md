@@ -47,6 +47,7 @@ sudo usermod -aG devteam bob
 sudo usermod -aG devteam charlie
 ```
 
+![alt text](<evidence/Screenshot 2025-12-01 173650.png>)
 ### ✔ Step 5: Confirm group membership
 
 ```
@@ -54,6 +55,7 @@ groups alice
 groups bob
 ```
 
+![alt text](<evidence/Screenshot 2025-12-01 173650.png>)
 ---
 
 ## ✅ **2. Manage Permissions for Project Directory**
