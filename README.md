@@ -17,14 +17,17 @@ Here is **Level 1 – Basic (Foundational Linux Skills)** explained **STEP-BY-ST
 sudo groupadd devteam
 ```
 i added the gruop name line devteam
-### ✔ Step 2: Add users to the system
+
 ![alt text](<evidence/Screenshot 2025-12-01 162653.png>)
+### ✔ Step 2: Add users to the system
+
 ```
 sudo useradd -m alice
 sudo useradd -m bob
 sudo useradd -m charlie
 ```
 i add the user name is mtech
+
 ![alt text](<evidence/Screenshot 2025-12-01 163109.png>)
 
 ### ✔ Step 3: Set password for each user
@@ -34,6 +37,7 @@ sudo passwd alice
 sudo passwd bob
 sudo passwd charlie
 ```
+![alt text](<evidence/Screenshot 2025-12-01 173334.png>)
 
 ### ✔ Step 4: Add users to the devteam group
 
