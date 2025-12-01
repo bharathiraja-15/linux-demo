@@ -186,7 +186,17 @@ cat /etc/os-release
 ```
 top
 ```
+lscpu 
 
+![alt text](<evidence/Screenshot 2025-12-01 180527.png>)
+
+cat /etc/os-release ,free -m ,t df -h
+
+![alt text](<evidence/Screenshot 2025-12-01 180646.png>)
+
+top
+
+![alt text](<evidence/Screenshot 2025-12-01 180701.png>)
 ---
 
 # 🎯 **RESULT**
