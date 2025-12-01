@@ -273,6 +273,10 @@ checking backupfiles
 
 ![alt text](<evidence/Screenshot 2025-12-01 194627.png>)
 
+this is the way to add crontab file 
+
+![alt text](<evidence/Screenshot 2025-12-01 195706.png>)
+
 ```
 Use only if you want to stop cron entirely.
 
