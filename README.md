@@ -17,7 +17,7 @@ Here is **Level 1 – Basic (Foundational Linux Skills)** explained **STEP-BY-ST
 sudo groupadd devteam
 ```
 i added the gruop name line devteam
-![alt text](<linux-demo/evidence/Screenshot 2025-12-01 162653.png>)
+
 ### ✔ Step 2: Add users to the system
 
 ```
@@ -26,8 +26,7 @@ sudo useradd -m bob
 sudo useradd -m charlie
 ```
 i add the user name is mtech
-![alt text](<linux-demo/evidence/Screenshot 2025-12-01 163109.png>)
-![alt text](<linux-demo/evidence/Screenshot 2025-12-01 163621.png>)
+
 ### ✔ Step 3: Set password for each user
 
 ```
