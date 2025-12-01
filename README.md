@@ -1,2 +1,0 @@
-# linux-demo
-demo-project
