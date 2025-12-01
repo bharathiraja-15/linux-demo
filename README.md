@@ -146,6 +146,9 @@ Check:
 java -version
 ```
 
+![alt text](<evidence/Screenshot 2025-12-01 175336.png>)
+![alt text](<evidence/Screenshot 2025-12-01 175451.png>)
+
 ---
 
 ## ✅ **4. Check System Information (Memory, CPU, Disk)**
