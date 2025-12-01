@@ -98,6 +98,7 @@ Expected:
 drwxrws---  devteam devteam
 ```
 
+![alt text](<evidence/Screenshot 2025-12-01 174911.png>)
 ---
 
 ## ✅ **3. Install Required Packages (Git, Nginx, Java)**
