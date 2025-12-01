@@ -299,6 +299,19 @@ Removes logs older than 7 days.
 find /var/log -type f -mtime +7 -delete
 ```
 
+find /var/log -type f -mtime +7 -delete
+find → search for files
+
+/var/log → search inside this folder
+
+-type f → only regular files
+
+-mtime +7 → modified more than 7 days ago
+
+-delete → delete them
+
+✔ This will remove all log files older than 7 days.
+
 ### **b) Service Restart Script**
 
 Automatically restarts services that are down.
@@ -307,7 +320,18 @@ Automatically restarts services that are down.
 systemctl restart nginx
 systemctl restart ssh
 ```
+to install for the command first 
 
+![alt text](<evidence/Screenshot 2025-12-01 205233.png>)
+
+
+then start and restart 
+
+![alt text](<evidence/Screenshot 2025-12-01 205226.png>)
+
+ finlly check whether its run or not
+
+![alt text](<evidence/Screenshot 2025-12-01 205221.png>)
 ### **c) Health Check Script**
 
 Checks CPU load, memory, disk, and service status.
@@ -318,6 +342,10 @@ free -h
 df -h
 systemctl status nginx
 ```
+
+checking cpu status process 
+![alt text](<evidence/Screenshot 2025-12-01 205538.png>)
+
 
 ---
 
